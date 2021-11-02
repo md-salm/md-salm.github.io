@@ -1,0 +1,7 @@
+
+{
+  "siteKey": "key from config",
+  "API_URL": "https://nmbservice.spitfireagent.com/DialServiceAPI",
+  "CAMPAIGN_STATS_INTERVAL": 10000,
+  "captchaKey": "6Lf9T-UcAAAAAPgkYRQ05j2uuMYsB1FZRSb155vj"
+}
